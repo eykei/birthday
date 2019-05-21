@@ -1,0 +1,499 @@
+1520061208055	geckodriver	INFO	Listening on 127.0.0.1:64109
+1520061210117	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.PBEFd7dC86pW
+1520061210133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520061210149	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64119
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1520061210928	Marionette	INFO	Listening on port 64119
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8fC4/yu/l/en_US/vvO1hydEIhL.js, line 1179: unreachable code after return statement
+[Child 15100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1523721095608	geckodriver	INFO	Listening on 127.0.0.1:51023
+1523721097905	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.4rPRdWo9X8Nw
+1523721097927	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523721098088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51031
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1523721100264	Marionette	INFO	Listening on port 51031
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1523721235512	geckodriver	INFO	Listening on 127.0.0.1:51654
+1523721237612	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.tU01QiwuuZJt
+1523721237625	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523721237682	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51660
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1523721238945	Marionette	INFO	Listening on port 51660
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1523721312824	geckodriver	INFO	Listening on 127.0.0.1:51843
+1523721314919	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.aRS2Dii89CiF
+1523721314957	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523721315013	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51849
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1523721316305	Marionette	INFO	Listening on port 51849
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 47484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1526416447446	geckodriver	INFO	Listening on 127.0.0.1:63433
+1526416449537	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.XJ7Ekmw6G8Zu
+1526416449546	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416449563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63441
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416450565	Marionette	INFO	Listening on port 63441
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 10000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10000] WARNING: pipe er1526416514292	geckodriver	INFO	Listening on 127.0.0.1:63494
+1526416516350	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.SKGR8cdA8G2A
+1526416516383	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416516393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63500
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416517180	Marionette	INFO	Listening on port 63500
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+x86)\Mozilla Firefox\firefox.exe
+1526416590803	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64163
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416591914	Marionette	INFO	Listening on port 64163
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416616508	geckodriver	INFO	Listening on 127.0.0.1:64236
+1526416618642	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.VCAy6VhRedvU
+1526416618653	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416618667	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64243
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416619421	Marionette	INFO	Listening on port 64243
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Parent 15152] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 15152] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1526416771588	geckodriver	INFO	Listening on 127.0.0.1:65164
+1526416773660	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.lLjE05hbgz0N
+1526416773693	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416773703	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65170
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416774545	Marionette	INFO	Listening on port 65170
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526416795808	geckodriver	INFO	Listening on 127.0.0.1:65226
+1526416797874	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.uR9UrMdqrBXj
+1526416797907	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416797917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65233
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416798663	Marionette	INFO	Listening on port 65233
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+ozprofile.uw32Ke1jhE5e
+1526416922606	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416922617	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49374
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416923381	Marionette	INFO	Listening on port 49374
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 20128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-0000file::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.Q3GV3yRW9stX
+1526416946740	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416946751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49715
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416947682	Marionette	INFO	Listening on port 49715
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416972641	geckodriver	INFO	Listening on 127.0.0.1:49780
+1526416974687	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.0KjWZh1jG8Gi
+1526416974721	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526416974730	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49787
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526416975562	Marionette	INFO	Listening on port 49787
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Chi1526417071036	geckodriver	INFO	Listening on 127.0.0.1:50122
+1526417073116	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.IgrRwtcVBwTu
+1526417073133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526417073149	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50128
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417073986	Marionette	INFO	Listening on port 50128
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417137657	geckodriver	INFO	Listening on 127.0.0.1:50275
+1526417139724	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.iGf6PgATXgIB
+1526417139757	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526417139767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50281
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417140509	Marionette	INFO	Listening on port 50281
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417184721	geckodriver	INFO	Listening on 127.0.0.1:50388
+1526417186817	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.vUImNWJbFgtN
+1526417186841	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526417186851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50394
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417187606	Marionette	INFO	Listening on port 50394
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 15552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Chi1526417245385	geckodriver	INFO	Listening on 127.0.0.1:50475
+1526417247440	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.5IRGG706M5m5
+1526417247449	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1526417247460	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50482
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1526417248243	Marionette	INFO	Listening on port 50482
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+1526428926519	geckodriver	INFO	Listening on 127.0.0.1:53032
+1529915440372	geckodriver	INFO	Listening on 127.0.0.1:56985
+1529915442458	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.Fogr4VRpa6k3
+1529915442473	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1529915442493	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56994
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1529915443574	Marionette	INFO	Listening on port 56994
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+1529915514342	geckodriver	INFO	Listening on 127.0.0.1:57144
+1529915516410	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.KPCHZSzJzHmS
+1529915516445	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1529915516455	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57151
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1529915517376	Marionette	INFO	Listening on port 57151
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returneJavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+me://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1529915729534	geckodriver	INFO	Listening on 127.0.0.1:58920
+1529915731617	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.ecGZQiSpBrUS
+1529915731630	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1529915731642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58928
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1529915732691	Marionette	INFO	Listening on port 58928
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 24444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i9EB4/yt/l/en_US/EFZexZmqagA.js, line 1401: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ifk24/yX/l/en_US/tTbaIT_l1j_.js, line 1196: unreachable code after return statement
+1529916003773	geckodriver	INFO	Listening on 127.0.0.1:60025
+1529916005856	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.PKtEhkv0hSuC
+1529916005906	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1529916005926	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60031
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1529916006749	Marionette	INFO	Listening on port 60031
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 23584] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 23584] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 26820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+chrome/common/ipc_channel_win.cc, line 345
+1539900271065	geckodriver	INFO	Listening on 127.0.0.1:54246
+1539900273165	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.PZmyDAY5oU2X
+1539900273178	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1539900273194	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54254
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1539900274773	Marionette	INFO	Listening on port 54254
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1539585139095&k=6Lc9qjcUAAAAADTnJq5kJMjN9aD1lxpRLMnCS2TR&cb=pdqhyao2fnxl, line 184: ReferenceError: recaptcha is not defined
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 22924] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Parent 22924] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[GFX1]: Attempting to post to a invalid Compositor Loop
+[Parent 22924] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+JavaScript error: resource://app/modules/webrtcUI.jsJavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 13616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 13616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 13616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 7100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1548374529583	geckodriver	INFO	Listening on 127.0.0.1:59891
+1548374532649	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.QgDOHDu0eAue
+1548375147112	geckodriver	INFO	Listening on 127.0.0.1:60175
+1548375150152	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.m6qvAlRc1fPY
+1548375150163	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548375150172	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60183
+1548375150803	Marionette	INFO	Listening on port 60183
+1548375151218	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 571824] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 571824] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1548375164015	geckodriver	INFO	Listening on 127.0.0.1:60402
+1548375167043	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.PTlCMOwjjLd4
+1548375167054	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548375167062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60413
+1548375167705	Marionette	INFO	Listening on port 60413
+1548375168081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Child 574912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 574912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc1548375178969	geckodriver::marionette	ERROR	Failed to kill browser process
+1548375222760	geckodriver	INFO	Listening on 127.0.0.1:60546
+1548375225815	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.BPKBGtyttmPM
+1548375225824	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548375225834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60554
+1548375226334	Marionette	INFO	Listening on port 60554
+1548375226950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 573460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 574332] WARNING: pipe error: 109: file c:1548375405347	geckodriver	INFO	Listening on 127.0.0.1:61476
+1548375408386	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.XcGKqzpaE1pJ
+1548375408400	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548375408417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61484
+1548376611676	geckodriver	INFO	Listening on 127.0.0.1:62868
+1548376614728	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.hMAEopyZ37v2
+1548376614739	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548376614748	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62880
+1548376615012	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[Parent 573688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 575568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 575568] WARNING: pipe err1548376616496	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 573688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 573688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 575872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 576044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 576044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548380222838	geckodriver	INFO	Listening on 127.0.0.1:64937
+1548380225903	mozprofile::profile	INFO	Using profile path C:\Users\statu\AppData\Local\Temp\rust_mozprofile.zFOTu4s21h7i
+1548380225914	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1548380225922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64945
+1548380226232	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[Child 575244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 575244] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558240897163	geckodriver	INFO	Listening on 127.0.0.1:52198
+1558240900401	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.uL6ZIMflcNEs
+1558240900424	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1558240900450	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52206
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1558240902212	Marionette	INFO	Listening on port 52206
+1558240903050	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+1558240968182	geckodriver	INFO	Listening on 127.0.0.1:52392
+1558240971348	mozprofile::profile	INFO	Using profile path C:\Users\eykei\AppData\Local\Temp\rust_mozprofile.J9bqKPaKElZR
+1558240971391	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1558240971453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52401
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1558240973164	Marionette	INFO	Listening on port 52401
+1558240973890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/NVFpAmmxqKw.js, line 3: TypeError: h is null
